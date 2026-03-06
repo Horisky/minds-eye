@@ -1,6 +1,15 @@
 # minds-eye 🧠👁️
 
+[![ClawHub](https://img.shields.io/badge/ClawHub-minds--eye-blue)](https://clawhub.ai/skills/minds-eye)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > Give your AI agent a visual memory — store, search, and recall images, charts, diagrams, and website screenshots across conversations.
+
+### Install via ClawHub
+
+```bash
+clawhub install minds-eye
+```
 
 **minds-eye** is an [OpenClaw](https://openclaw.ai) skill that lets AI agents remember visual content. Send your agent an image, chart, or website URL — it analyzes it with GPT-4o vision and stores the description, tags, and a copy of the image. Later, search by keyword to retrieve what was seen.
 
